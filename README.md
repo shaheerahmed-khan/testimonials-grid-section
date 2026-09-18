@@ -22,8 +22,8 @@
 
 ### Links
 
-- Solution: [Add solution URL here](https://github.com/shaheerahmedkhan11/testimonials-grid-section)
-- Live Site URL: [Add live site URL here](https://shaheerahmedkhan11.github.io/testimonials-grid-section/)
+- Solution: [Solution](https://github.com/shaheerahmed-khan/testimonials-grid-section)
+- Live Site URL: [Live Site](https://shaheerahmed-khan.github.io/testimonials-grid-section/)
 
 ## My process
 
